@@ -1,1 +1,5 @@
 Poczytaj mnie!
+
+
+
+Koniec czytania!
