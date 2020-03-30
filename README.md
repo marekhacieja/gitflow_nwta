@@ -1,5 +1,1 @@
-Poczytaj mnie!
-
-
-
-Koniec czytania!
+Repozytorium z gitflow
